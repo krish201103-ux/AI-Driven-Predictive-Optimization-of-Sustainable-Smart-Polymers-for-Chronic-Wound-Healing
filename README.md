@@ -1,4 +1,4 @@
-﻿# AI-Driven-Predictive-Optimization-of-Sustainable-Smart-Polymers-for-Chronic-Wound-Healing
+﻿# AI-Driven Predictive Optimization of Sustainable Smart Polymers for Chronic Wound Healing
 ## Overview
 This project uses Artificial Intelligence and Machine Learning approaches to analyze and optimize sustainable smart polymers for chronic wound healing applications.
 
